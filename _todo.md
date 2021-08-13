@@ -28,7 +28,7 @@ If the URL of the recommendation changes, change it where it appears:
 
 ## 3. Update the logic
 
-Update the [CQL logic](input/cql/LungCancerScreening.cql):
+Update the [CQL logic](input/cql/LungCancerScreeningCDS.cql):
 
 1. Expression `"55 through 80"` to determine the age, needs to be renamed to reflect age change as well as the logic
 2. Expression `"Has 30 pack-year smoking history"`, needs to be renamed to reflect the change in years, as well as the logic

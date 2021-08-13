@@ -1,6 +1,6 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "lcs-cds-patient-view",
+  "id": "ColorectalCancerScreeningCDS",
   "version": "0.1.0",
   "name": "LungCancerScreeningRecommendation",
   "title": "Lung Cancer Screening Recommendation",
@@ -14,7 +14,7 @@
     ]
   },
   "status": "draft",
-  "description": "Adults aged 55 to 80 years (inclusive both ways, i.e., >=55, <= 80) who have a 30 pack-year smoking history and currently smoke or have quit within the past 15 years. Screening should be discontinued once a person has not smoked for 15 years (identical to inclusion criterion above) or develops a health problem that substantially limits life expectancy or the ability or willingness to have curative lung surgery (currently NOT taken into account.)",
+  "description": "Adults aged 50 to 80 years (inclusive both ways, i.e., >=50, <= 80) who have a 30 pack-year smoking history and currently smoke or have quit within the past 15 years. Screening should be discontinued once a person has not smoked for 15 years (identical to inclusion criterion above) or develops a health problem that substantially limits life expectancy or the ability or willingness to have curative lung surgery (currently NOT taken into account.)",
   "purpose": "Annual screening for lung cancer with low-dose computed tomography (LDCT)",
   "relatedArtifact": [ {
     "type": "citation",
@@ -26,7 +26,7 @@
     "url": "http://fhir.org/guides/utah-edu/lcs-cds"
   } ],
   "library": [
-    "http://fhir.org/guides/utah-edu/lcs-cds/Library/LungCancerScreening"
+    "http://fhir.org/guides/utah-edu/lcs-cds/Library/LungCancerScreeningCDS"
   ],
   "action": [
     {

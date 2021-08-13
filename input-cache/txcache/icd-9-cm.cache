@@ -1,0 +1,188 @@
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "code" : "162.2"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.2\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.2) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "code" : "162.3"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.3\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.3) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "code" : "162.4"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.4\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.4) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "code" : "162.5"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.5\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.5) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "code" : "162.8"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.8\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.8) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "code" : "162.9"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.9\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.9) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "version" : "2013",
+  "code" : "162.2"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.2\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.2) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "version" : "2013",
+  "code" : "162.3"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.3\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.3) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "version" : "2013",
+  "code" : "162.4"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.4\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.4) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "version" : "2013",
+  "code" : "162.5"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.5\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.5) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "version" : "2013",
+  "code" : "162.8"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.8\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.8) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "version" : "2013",
+  "code" : "162.9"
+}, "valueSet" :null, "lang":"en-US", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.9\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.9) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+  "code" : "162.5",
+  "display" : "Malignant neoplasm of lower lobe, bronchus or lung"
+}, "valueSet" :null, "lang":"null", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "",
+  "severity" : "error",
+  "error" : "The code \"162.5\" is not valid in the system http://hl7.org/fhir/sid/icd-9-cm; The code provided (http://hl7.org/fhir/sid/icd-9-cm#162.5) is not valid in the value set 'All codes known to the system' (from http://tx.fhir.org/r4)"
+}
+-------------------------------------------------------------------------------------
+{"hierarchical" : true, "valueSet" :{
+  "resourceType" : "ValueSet",
+  "compose" : {
+    "include" : [{
+      "system" : "http://hl7.org/fhir/sid/icd-9-cm",
+      "version" : "2013",
+      "concept" : [{
+        "code" : "162.2",
+        "display" : "Malignant neoplasm of main bronchus"
+      },
+      {
+        "code" : "162.3",
+        "display" : "Malignant neoplasm of upper lobe, bronchus or lung"
+      },
+      {
+        "code" : "162.4",
+        "display" : "Malignant neoplasm of middle lobe, bronchus or lung"
+      },
+      {
+        "code" : "162.5",
+        "display" : "Malignant neoplasm of lower lobe, bronchus or lung"
+      },
+      {
+        "code" : "162.8",
+        "display" : "Malignant neoplasm of other parts of bronchus or lung"
+      },
+      {
+        "code" : "162.9",
+        "display" : "Malignant neoplasm of bronchus and lung, unspecified"
+      }]
+    }]
+  }
+}}####
+e: {
+  "valueSet" : {
+  "resourceType" : "ValueSet",
+  "language" : "en",
+  "status" : "active",
+  "expansion" : {
+    "identifier" : "urn:uuid:79d789f9-59cd-4006-9523-0db16567e5a4",
+    "timestamp" : "2021-08-13T22:17:25.833Z",
+    "parameter" : [{
+      "name" : "limitedExpansion",
+      "valueBoolean" : true
+    }]
+  }
+},
+  "error" : ""
+}
+-------------------------------------------------------------------------------------

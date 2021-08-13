@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://loinc.org",
+  "code" : "72166-2",
+  "display" : "Tobacco smoking status"
+}, "valueSet" :null, "lang":"null", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "Tobacco smoking status",
+  "severity" : null,
+  "error" : ""
+}
+-------------------------------------------------------------------------------------
+{"code" : {
+  "system" : "http://loinc.org",
+  "code" : "8663-7",
+  "display" : "Cigarettes smoked current (pack per day) - Reported"
+}, "valueSet" :null, "lang":"null", "useServer":"true", "useClient":"true", "guessSystem":"false", "valueSetMode":"ALL_CHECKS"}####
+v: {
+  "display" : "Cigarettes smoked current (pack per day) - Reported",
+  "severity" : null,
+  "error" : ""
+}
+-------------------------------------------------------------------------------------

@@ -1,1 +1,1 @@
-{% highlight sql %}{% include_relative cql/LungCancerScreening-0.1.0.cql %}{% endhighlight %}
+{% highlight sql %}{% include_relative cql/LungCancerScreeningCDS-0.1.0.cql %}{% endhighlight %}
