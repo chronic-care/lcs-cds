@@ -1,7 +1,25 @@
 {
   "resourceType": "Library",
-  "id": "library-LungCancerConcepts",
+  "id": "LungCancerConcepts",
+  "meta": {
+    "profile": [ "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-shareablelibrary", "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-computablelibrary", "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-publishablelibrary", "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-executablelibrary" ]
+  },
   "extension": [ {
+    "url": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-knowledgeCapability",
+    "valueCode": "shareable"
+  }, {
+    "url": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-knowledgeCapability",
+    "valueCode": "computable"
+  }, {
+    "url": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-knowledgeCapability",
+    "valueCode": "publishable"
+  }, {
+    "url": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-knowledgeCapability",
+    "valueCode": "executable"
+  }, {
+    "url": "http://hl7.org/fhir/uv/cpg/StructureDefinition/cpg-knowledgeRepresentationLevel",
+    "valueCode": "structured"
+  }, {
     "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-softwaresystem",
     "valueReference": {
       "reference": "cqf-tooling"
@@ -10,6 +28,24 @@
   "url": "http://fhir.org/guides/utah-edu/lcs-cds/Library/LungCancerConcepts",
   "version": "0.1.0",
   "name": "LungCancerConcepts",
+  "title": "Lung Cancer Concepts",
+  "status": "active",
+  "experimental": false,
+  "type": {
+    "coding": [ {
+      "system": "http://terminology.hl7.org/CodeSystem/library-type",
+      "code": "logic-library"
+    } ]
+  },
+  "date": "2021-08-12T15:54:22-07:00",
+  "description": "Lung Cancer Concepts",
+  "approvalDate": "2021-08-12",
+  "lastReviewDate": "2021-08-12",
+  "topic": [ {
+    "text": "FHIR"
+  }, {
+    "text": "CQL"
+  } ],
   "relatedArtifact": [ {
     "type": "depends-on",
     "display": "Code system SNOMED",
