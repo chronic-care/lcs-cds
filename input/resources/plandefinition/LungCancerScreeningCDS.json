@@ -1,6 +1,6 @@
 {
   "resourceType": "PlanDefinition",
-  "id": "ColorectalCancerScreeningCDS",
+  "id": "LungCancerScreeningCDS",
   "version": "0.1.0",
   "name": "LungCancerScreeningRecommendation",
   "title": "Lung Cancer Screening Recommendation",
@@ -44,7 +44,7 @@
           "expression": {
             "description": "Determine if the patient is eligible for Lung Cancer Screening",
             "language": "text/cql-identifier",
-            "expression": "Inclusion Criteria"
+            "expression": "Is Recommendation Applicable"
           }
         }
       ],
